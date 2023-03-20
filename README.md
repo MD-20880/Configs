@@ -2,4 +2,5 @@
 
 
 CLI | oh-my-zsh |  https://ohmyz.sh/
+
 MAIL | Thunderbird | https://www.thunderbird.net/
